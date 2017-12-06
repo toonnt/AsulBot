@@ -8,52 +8,52 @@ import time,random,sys,json,codecs,threading,glob,requests,urllib
 
 cl = ASUL.LINE()
 #cl.login(qr=True)
-cl.login(token="Emkvgz2Nht8TZmlZCyP6.xxD+zgW3gaYtM/L6PqLWLG.66vfknBfN3kwpXVAYkzt2QRuS+qMx+vXyqJUk4rNONE=")
+cl.login(token="=")
 cl.loginResult()
 
 ki = ASUL.LINE()
-ki.login(token="EmMqguQKoWRChdS1Yy01.KaptOybxCrifYDMnQKDtuq.myKbgnq75ijMnfqNzTgPBntdTWRYkSAGcVHGG8QdUeI=")
+ki.login(token=".KaptOybxCrifYDMnQKDtuq.myKbgnq75ijMnfqNzTgPBntdTWRYkSAGcVHGG8QdUeI=")
 ki.loginResult()
 
 ki2 = ASUL.LINE()
-ki2.login(token="EmhpaV5QXhfvD6wHcKV5.AGDp9RAvVu74uEPb2dOObq.wfta/vi1XqkHd983LJ8o136RGMdMga18zToNmykkAHM=")
+ki2.login(token=".AGDp9RAvVu74uEPb2dOObq.wfta/vi1XqkHd983LJ8o136RGMdMga18zToNmykkAHM=")
 ki2.loginResult()
 
 ki3 = ASUL.LINE()
-ki3.login(token="EmDUomCSeC02CSAnblj5.e6R7RPm6s4jF9KtBEUefbq.Vw7yrim8fQLPzJnXDBceP/hxV2f3PT6cVlC2omVV1cs=")
+ki3.login(token=".e6R7RPm6s4jF9KtBEUefbq.Vw7yrim8fQLPzJnXDBceP/hxV2f3PT6cVlC2omVV1cs=")
 ki3.loginResult()
 
 ki4 = ASUL.LINE()
-ki4.login(token="Emt78GwPwiWuvKqYzrqc.QMisVJ1WbxPZk9PyOBG1la.LqGqs9M3wMXmrG5cuQf+CKEuxhlBHIJSyo7GEz/qYDM=")
+ki4.login(token=".QMisVJ1WbxPZk9PyOBG1la.LqGqs9M3wMXmrG5cuQf+CKEuxhlBHIJSyo7GEz/qYDM=")
 ki4.loginResult()
 
 ki5 = ASUL.LINE()
-ki5.login(token="EmnQLf7tZB5mkiC9otb7.ytumAwr3H3EXn5tszTzCDW.zBLGBfkkq2Vvyi+UTKyDBRN+T+5dR7Re5i7SdsDumx4=")
+ki5.login(token=".ytumAwr3H3EXn5tszTzCDW.zBLGBfkkq2Vvyi+UTKyDBRN+T+5dR7Re5i7SdsDumx4=")
 ki5.loginResult()
 
 k1 = ASUL.LINE()
 #kt.login(qr=True)
-k1.login(token="EnsLc4J9SRyUZeiodZl2.9RpHFXrRUvLkGkQ7B0h2GG.u5b72IeDZvTRhb2jCP3IOeljgO0Z3ugHjdQVbqUwm9k=")
+k1.login(token=".u5b72IeDZvTRhb2jCP3IOeljgO0Z3ugHjdQVbqUwm9k=")
 k1.loginResult()
 
 k2 = ASUL.LINE()
 #k2.login(qr=True)
-k2.login(token="En17OPfVNOuDiHtDkcq1.CRjuyRgxbCvQyx5qQEF6mq.xe8sI/bxsIXjgg7FGaFqc878gVXsLyJ3hL94WvpGABU=")
+k2.login(token="..xe8sI/bxsIXjgg7FGaFqc878gVXsLyJ3hL94WvpGABU=")
 k2.loginResult()
 
 k3 = ASUL.LINE()
 #ki.login(qr=True)
-k3.login(token="EnXDeWMojV14SQAPv3V9.eVoUTt9ZSX17Kvzm1TvO2q.dB6/TetD/oFgTnpO1GJE+QmABRAHP0RB2OYToxBacqM=")
+k3.login(token="..dB6/TetD/oFgTnpO1GJE+QmABRAHP0RB2OYToxBacqM=")
 k3.loginResult()
 
 k4 = ASUL.LINE()
 #k4.login(qr=True)
-k4.login(token="En8V88iDqsogAVnZeHOf.rQhtuu7bBHiReAU3hF45NW.cOkjBAg7QX9edRE+ZMBUmfsRNTFmzVDJgvs+U8A6o7Y=")
+k4.login(token="..+ZMBUmfsRNTFmzVDJgvs+U8A6o7Y=")
 k4.loginResult()
 
 k5 = ASUL.LINE()
 #k5.login(qr=True)
-k5.login(token="En6sWSa68edGKbOAPWcb.P4w/d0XTgMBycg6adEmVsW.cRMrFCmYAvJisOZNprA1MbsodofBG61WOPjXvc7POn8=")
+k5.login(token="")
 k5.loginResult()
 
 ki6 = ASUL.LINE()
