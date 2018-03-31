@@ -7,53 +7,53 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,requests,urllib
 
 cl = ASUL.LINE()
-#cl.login(qr=True)
-cl.login(token="=")
+cl.login(qr=True)
+cl.login(token="เชล")
 cl.loginResult()
 
 ki = ASUL.LINE()
-ki.login(token=".KaptOybxCrifYDMnQKDtuq.myKbgnq75ijMnfqNzTgPBntdTWRYkSAGcVHGG8QdUeI=")
+ki.login(token="k1")
 ki.loginResult()
 
 ki2 = ASUL.LINE()
-ki2.login(token=".AGDp9RAvVu74uEPb2dOObq.wfta/vi1XqkHd983LJ8o136RGMdMga18zToNmykkAHM=")
+ki2.login(token="k2")
 ki2.loginResult()
 
 ki3 = ASUL.LINE()
-ki3.login(token=".e6R7RPm6s4jF9KtBEUefbq.Vw7yrim8fQLPzJnXDBceP/hxV2f3PT6cVlC2omVV1cs=")
+ki3.login(token="k3")
 ki3.loginResult()
 
 ki4 = ASUL.LINE()
-ki4.login(token=".QMisVJ1WbxPZk9PyOBG1la.LqGqs9M3wMXmrG5cuQf+CKEuxhlBHIJSyo7GEz/qYDM=")
+ki4.login(token="k4")
 ki4.loginResult()
 
 ki5 = ASUL.LINE()
-ki5.login(token=".ytumAwr3H3EXn5tszTzCDW.zBLGBfkkq2Vvyi+UTKyDBRN+T+5dR7Re5i7SdsDumx4=")
+ki5.login(token="k5")
 ki5.loginResult()
 
 k1 = ASUL.LINE()
-#kt.login(qr=True)
-k1.login(token=".u5b72IeDZvTRhb2jCP3IOeljgO0Z3ugHjdQVbqUwm9k=")
+kt.login(qr=True)
+k1.login(token="k6")
 k1.loginResult()
 
 k2 = ASUL.LINE()
-#k2.login(qr=True)
-k2.login(token="..xe8sI/bxsIXjgg7FGaFqc878gVXsLyJ3hL94WvpGABU=")
+k2.login(qr=True)
+k2.login(token="k7")
 k2.loginResult()
 
 k3 = ASUL.LINE()
-#ki.login(qr=True)
-k3.login(token="..dB6/TetD/oFgTnpO1GJE+QmABRAHP0RB2OYToxBacqM=")
+ki.login(qr=True)
+k3.login(token="k8")
 k3.loginResult()
 
 k4 = ASUL.LINE()
-#k4.login(qr=True)
-k4.login(token="..+ZMBUmfsRNTFmzVDJgvs+U8A6o7Y=")
+k4.login(qr=True)
+k4.login(token="k9")
 k4.loginResult()
 
 k5 = ASUL.LINE()
-#k5.login(qr=True)
-k5.login(token="")
+k5.login(qr=True)
+k5.login(token="k10")
 k5.loginResult()
 
 ki6 = ASUL.LINE()
@@ -213,9 +213,9 @@ Thaihelp ="""\n
 ||✯ [Staff add/remove @]	   
 ||======= สำหรับแอดมิน =======||
 
-✯★Creator By ═ह वतेु১तेั७ழণ১ह═★✯
+✯★Creator By ✍☆ಬี่ໂম*ﾟ¨ﾟ✎･★✯
 
- Http://line.me/ti/p/~toon.38
+ http://line.me/ti/p/~tinnakorn941
 
 """
 helo=""
@@ -234,8 +234,8 @@ k4mid = k4.getProfile().mid
 k5mid = k5.getProfile().mid
 Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,k1mid,k2mid,k3mid,k4mid,k5mid,"u5d777f646c37180c939be97aa5097096"]
 bot1 = cl.getProfile().mid
-admsa = "u5d777f646c37180c939be97aa5097096"
-admin = "u5d777f646c37180c939be97aa5097096"
+admsa = "u15d6baf1b56b371f98fe441f0abf3ec5"
+admin = "u15d6baf1b56b371f98fe441f0abf3ec5"
 
 wait = {
     'contact':False,
@@ -244,9 +244,9 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':True,
-    'message':"selt bot by\n┅═हवतेु১तेั७ழণ১ह═ \nhttp://line.me/ti/p/~toon.38",
+    'message':"selt bot by\n✍☆ಬี่ໂম*ﾟ¨ﾟ✎･\nhttp://line.me/ti/p/~tinnakorn941",
     "lang":"JP",
-    "comment":"Auto Like By \n┅═ह वतेु১तेั७ழণ১ह═┅",
+    "comment":"Auto Like By \n✍☆ಬี่ໂম*ﾟ¨ﾟ✎･",
     "commentOn":False,
     "likeOn":False,
     "commentBlack":{},
