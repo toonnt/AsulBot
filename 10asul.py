@@ -232,10 +232,10 @@ k2mid = k2.getProfile().mid
 k3mid = k3.getProfile().mid
 k4mid = k4.getProfile().mid
 k5mid = k5.getProfile().mid
-Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,k1mid,k2mid,k3mid,k4mid,k5mid,"u5d777f646c37180c939be97aa5097096"]
+Bots = [mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,k1mid,k2mid,k3mid,k4mid,k5mid,"u15d6baf1b56b371f98fe441f0abf3ec5"]
 bot1 = cl.getProfile().mid
-admsa = "u5d777f646c37180c939be97aa5097096"
-admin = "u5d777f646c37180c939be97aa5097096"
+admsa = "u15d6baf1b56b371f98fe441f0abf3ec5"
+admin = "u15d6baf1b56b371f98fe441f0abf3ec5"
 
 wait = {
     'contact':False,
